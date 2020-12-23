@@ -190,7 +190,7 @@ The formatting of this will be easier to read in the knitted version of the docu
   - `conf.level` is the confidence level to be used in constructing a confidence interval; must be between 0 and 1, defaults to 0.95
 
 
-## Try It!
+## Try It! 
 Depending on your instruction method (synchronous remote, asynchronous remote), complete the following exercises collaboratively. 
 
 1. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration.
